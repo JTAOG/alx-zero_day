@@ -1,0 +1,8 @@
+git pull
+git push
+git branch 
+git checkout update_script
+git commit -m 'comment'
+git config --global user.name 'fullname'
+git config --global user.email 'type.com'
+git branch branch_name
